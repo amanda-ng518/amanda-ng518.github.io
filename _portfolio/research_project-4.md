@@ -5,8 +5,7 @@ excerpt: '<p><i>Supervised by Prof. Brad Bass, Fall 2023 - Winter 2024 </i></p>
 ROP Research Student, University of Toronto COBWEB lab'
 collection: portfolio
 ---
-**Abstract**
-<br>Decreasing fertility rates are a great threat to industrialized nations and it remains
+Decreasing fertility rates are a great threat to industrialized nations and it remains
 to be seen which actions are suitable to address this problem long-term. COBWEB, an
 agent-based modeling software, was used to simulate how decreasing fertility and aging
 would affect an arbitrary country if no preventive measures were taken. Additionally, the
