@@ -11,4 +11,3 @@ Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simu
 
 *Abdool P, **Ng A**, Inagaki M, Antinucci R, Sockalingam S*
 
----
