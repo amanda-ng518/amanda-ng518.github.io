@@ -23,7 +23,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a re
 - *2024.05 - Current* Department of Statistical Sciences, supervised by Prof. Nancy Reid
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
 - *2024.09 - 2025.04* Department of Human Biology, supervised by Prof. Naomi Levy-Strumpf
-- *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petel Abdool
+- *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petal Abdool
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
 - *2022.10 - 2023.05* UofT Population Well-being Lab, supervised by Prof. Felix Cheung
 
