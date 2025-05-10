@@ -9,3 +9,5 @@ location: "Toronto, ON, Canada"
 ---
 
 Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations
+
+Abdool P, **Ng A**, Inagaki M, Antinucci R, Sockalingam S
