@@ -8,5 +8,5 @@ date: 2025-01-30
 location: "Toronto, ON, Canada"
 ---
 Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations
-<br>*Petel Abdool, **Amanda Ng**, Mai Inagaki, Rachel Antinucci, Sanjeev Sockalingam*
+<br>*Petal Abdool, **Amanda Ng**, Mai Inagaki, Rachel Antinucci, Sanjeev Sockalingam*
 
