@@ -22,5 +22,4 @@ policies, but indirect financial policies (improving healthcare and childcare se
 were shown to be effective in the long term. Policymakers can consider these results
 when deciding how to approach this demographic problem.
 
-<br>
-<br> Click [final report](https://amanda-ng518.github.io/files/Voluntary_Extinction_Report.pdf) and [presentation poster](https://github.com/amanda-ng518/STA496) to view more.
+Click [final report](https://amanda-ng518.github.io/files/Voluntary_Extinction_Report.pdf) and [presentation poster](https://github.com/amanda-ng518/STA496) to view more.
