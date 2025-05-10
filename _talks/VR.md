@@ -8,4 +8,4 @@ date: 2024-01-30
 location: "Toronto, ON, Canada"
 ---
 
-Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations [Poster Presentation]
+Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations
