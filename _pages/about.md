@@ -12,5 +12,3 @@ I am an incoming M.Sc. student in Statistics at the University of Toronto. Prior
 I am currently working at the Department of Statistical Sciences under the supervision of Prof. Nancy Reid.
 
 Email: waiyuamanda [DOT] ng [AT] mail [DOT] utoronto [DOT] ca
-
-*Disclaimer*: This website is still under construction - please refer to CV if keen.
