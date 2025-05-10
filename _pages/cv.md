@@ -13,8 +13,9 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a re
 
 <span class="anchor" id="Education"></span>
 ### Education
-- M.Sc. in Statistics (2026 expected), University of Toronto 
-- H.B.Sc. in Statistics and Mathematics (2025), University of Toronto 
+- M.Sc. in Statistics (2026 expected), University of Toronto, ON, Canada
+- H.B.Sc. in Statistics and Mathematics (2025), University of Toronto, ON, Canada
+- Increasing Diversity in Mathematical Sciences 2024: Combinatorial Commutative Algebra (Not for credit), Dalhousie University, NS, Canada
 
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
