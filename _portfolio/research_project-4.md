@@ -5,3 +5,5 @@ excerpt: '<p><i>Supervised by Prof. Brad Bass, Fall 2023 - Winter 2024 </i></p>
 ROP Research Student, University of Toronto COBWEB lab'
 collection: portfolio
 ---
+
+Click [final report](https://amanda-ng518.github.io/files/Voluntary_Extinction _Report.pdf) and [presentation poster](https://github.com/amanda-ng518/STA496) to view more.
