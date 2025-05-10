@@ -1,6 +1,5 @@
 ---
 title: "DoSS Undergraduate Reading Course Presentation Day (Winter 2025)"
-excerpt: ''
 collection: talks
 type: "Talk"
 permalink: /talks/Reading_course_2025
