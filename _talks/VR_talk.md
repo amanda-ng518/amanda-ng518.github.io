@@ -1,6 +1,7 @@
 ---
 title: "Donald Wasylenki Education Day"
 collection: talks
+category: talk
 type: "Talk"
 permalink: /talks/VR_talk
 venue: "University of Toronto"
