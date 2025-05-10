@@ -80,11 +80,9 @@ author:
 publication_category:
   articles:
     title: 'Articles'
-  talk:
-    title: 'Talk Presentation'
-  poster:
-    title: 'Poster Presentation'
-
+  report:
+    title: 'Course Project Reports'
+    
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
