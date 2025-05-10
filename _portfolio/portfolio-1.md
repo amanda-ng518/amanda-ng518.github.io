@@ -4,3 +4,4 @@ excerpt: '<p><i>Supervised by Prof. Nancy Reid, Summer 2024 & Summer 2025 </i></
 
 In this project, we...'
 collection: portfolio
+---
