@@ -10,3 +10,4 @@ location: "Toronto, ON, Canada"
 
 Fair Machine Leaning in Healthcare
 <br>***Amanda Ng**, Jesse Gronsbell*
+<br>Click [presentation slides](https://amanda-ng518.github.io/files/STA496.pdf) to view it.
