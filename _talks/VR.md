@@ -1,7 +1,7 @@
 ---
 title: "Donald Wasylenki Education Day"
 collection: talks
-type: "Talk"
+type: "Poster Presentation"
 permalink: /talks/VR_talk
 venue: "University of Toronto"
 date: 2024-01-30
