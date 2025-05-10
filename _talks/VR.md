@@ -6,8 +6,8 @@ permalink: /talks/VR_talk
 venue: "University of Toronto"
 date: 2025-01-30
 location: "Toronto, ON, Canada"
----
 
 Determining the Severity and Prevalence of Cybersickness in Virtual Reality Simulations
 
-Abdool P, **Ng A**, Inagaki M, Antinucci R, Sockalingam S
+*Abdool P, **Ng A**, Inagaki M, Antinucci R, Sockalingam S*
+---
