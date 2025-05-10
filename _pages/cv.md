@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://rob-zimmerman.github.io/files/Amanda_CV.pdf) to download a recent copy of my CV (updated May 10, 2025).
+Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a recent copy of my CV (updated May 10, 2025).
