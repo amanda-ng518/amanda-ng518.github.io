@@ -44,6 +44,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a re
   
 <span class="anchor" id="Internships"></span>
 ### Honors and Awards
+- University of Toronto DoSS Summer Undergraduate Research Award (2025) [$2,000 CAD]
 - Samuel Beatty In-course Scholarship (2025) [$1,000 CAD]
 - University of Toronto Excellence Award: Natural Sciences and Engineering (2024) [$8,500 CAD]
 - University of Toronto Institute of Medical Science Department of Psychiatry Summer Undergraduate Research Program Award (2024) [$5,000 CAD]
