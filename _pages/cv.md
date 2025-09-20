@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a recent copy of my CV (updated May, 2025).
+Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download a recent copy of my Resume (updated Sep, 2025).
 
 <span class="anchor" id="Education"></span>
 ### Education
@@ -20,6 +20,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a re
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
+- *2024.09 - Current* Department of Statistical Sciences, supervised by Prof. Jun Young Park
 - *2024.05 - Current* Department of Statistical Sciences, supervised by Prof. Nancy Reid
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
 - *2024.09 - 2025.04* Department of Human Biology, supervised by Prof. Naomi Levy-Strumpf
@@ -37,7 +38,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_CV.pdf) to download a re
 ### Teaching Experience
 
 - *2023.09 - Current* Teaching Assistant, University of Toronto Department of Statistical Sciences, Toronto, ON, Canada
-  <br> Courses: STA130 (Fall 2023, Fall 2024), STA238 (Winter 2025)
+  <br> Courses: STA130 (Fall 2023, Fall 2024), STA238 (Winter 2025), STA304 (Fall 2025), Statistics Aid Centre (Fall 2025)
   <br> Events: Florence Nightingale Day (2024, 2025)
 - *2024.02 - 2024.12* Learning Support, University of Toronto Data Sciences Institute, Toronto, ON, Canada
   <br> Data Sciences & Machine Learning Certificates Modules: SQL, Applying Statistical Concepts, Sampling, Visualization
