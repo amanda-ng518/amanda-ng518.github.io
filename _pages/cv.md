@@ -31,6 +31,8 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download 
 <span class="anchor" id="Professional Experience"></span>
 ### Professional Experience
 
+- *2025.09 - Current* R-Based Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
+- *2024.09 - 2025.04* Tableau Data Visualization Analyst, University of Toronto Human Biology Program, Toronto, ON, Canada
 - *2023.05 - 2023.08* Data Analyst Intern, Canadian Urban Institute, Toronto, ON, Canada
 - *2022.09 - 2023.12* Student Statistics Consultant, University of Toronto Data Sciences Café, Toronto, ON, Canada
   
