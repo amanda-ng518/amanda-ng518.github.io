@@ -1,6 +1,6 @@
 ---
 title: "Transit and Crime: Investigating Assault Clusters Around Toronto’s TTC Subway Lines"
-excerpt: '<p><i>Fall 2024 STA465 Course Project </i></p>
+excerpt: '<p><i>Fall 2024 STA465 Course Project </i></p>'
 
 collection: portfolio
 ---
