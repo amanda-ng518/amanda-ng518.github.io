@@ -1,3 +1,4 @@
+---
 title: "Quercus Engagement as a Predictor of First-Year University Student Dropout Risk: A Logistic Regression Analysis"
 excerpt: '<p><i>Fall 2024 - Winter 2025 STA490 Course Project </i></p>'
 
