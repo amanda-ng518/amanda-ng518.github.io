@@ -2,7 +2,6 @@
 title: "Transit and Crime: Investigating Assault Clusters Around Toronto’s TTC Subway Lines"
 excerpt: '<p><i>Fall 2024 STA465 Course Project </i></p>
 
-University of Toronto Population Well-being Lab'
 collection: portfolio
 ---
 This study investigates the spatial distribution of assault incidents in Toronto in 2023, with a focus on the potential clustering of assaults near Toronto Transit Commission (TTC) subway routes. Utilizing assault occurrence data from the Toronto Police Service and TTC subway route, a spatial analysis was conducted to determine whether proximity to subway infrastructure influences the intensity and clustering of assault incidents.
