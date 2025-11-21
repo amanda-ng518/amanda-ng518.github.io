@@ -12,4 +12,4 @@ The spatial analysis of Toronto assault cases reveals significant clustering pat
 
 Research findings can provide insights for urban planners and policymakers, informing strategies to enhance public safety around transit infrastructure. This research contributes to understanding the interplay between urban crime patterns and public transit systems, with implications for cities beyond Toronto.
 
-Click [final report](https://github.com/amanda-ng518/amanda-ng518.github.io/blob/master/files/Transit%20and%20Crime.html) to view more.
+Click [final report](https://amanda-ng518.github.io/Transit-and-Crime.github.io/) to view more.
