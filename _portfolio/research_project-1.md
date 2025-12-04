@@ -8,4 +8,4 @@ collection: portfolio
 
 This project explores statistical inference on the genetic heritability of intermodal coupling derived from multi-modal brain MRI data. It covers the fundamentals of adaptive testing and correlation modeling, and examine methods for accurately controlling the Type I error rate and increasing statistical power by leveraging rich spatial information. The project also involves large-scale simulation studies using parallel computing, as well as real data analyses.
 
-Click [report](https://amanda-ng518.github.io/files/STA4000_Report.pdf)to view it.
+Click [report](https://amanda-ng518.github.io/files/STA4000_Report.pdf) to view it.
