@@ -28,7 +28,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download 
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
-- *2025.09 - Current* Department of Statistical Sciences, supervised by Prof. Jun Young Park
+- *2025.09 - 2025.12* Department of Statistical Sciences, supervised by Prof. Jun Young Park
 - *2024.05 - Current* Department of Statistical Sciences, supervised by Prof. Nancy Reid
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
 - *2024.09 - 2025.04* Department of Human Biology, supervised by Prof. Naomi Levy-Strumpf
