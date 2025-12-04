@@ -23,4 +23,5 @@ are clusters of days corresponding to different school calendars, holiday period
 routines that show similar daily traffic volume patterns across locations. These findings
 provides insights to forcast fluctuations in traffic usage, hence aid tailoring transportation
 planning and infrastructure maintenance interventions.
-Click [report](https://github.com/amanda-ng518/STA2005_report) to view more.
+
+Click [report](https://github.com/amanda-ng518/STA2005_report.pdf) to view more.
