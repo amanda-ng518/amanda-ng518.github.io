@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download a recent copy of my Resume (updated Sep, 2025).
+Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download a recent copy of my Resume (updated Dec, 2025).
 
 <span class="anchor" id="Education"></span>
 ### Education
