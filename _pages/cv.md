@@ -17,6 +17,14 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download 
 - H.B.Sc. in Statistics and Mathematics (2025), University of Toronto, ON, Canada
 - Increasing Diversity in Mathematical Sciences 2024: Combinatorial Commutative Algebra (Not for credit), Dalhousie University, NS, Canada
 
+<span class="anchor" id="Professional Experience"></span>
+### Professional Experience
+
+- *2025.09 - Current* R-Based Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
+- *2024.09 - 2025.04* Tableau Data Visualization Analyst, University of Toronto Human Biology Program, Toronto, ON, Canada
+- *2023.05 - 2023.08* Data Analyst Intern, Canadian Urban Institute, Toronto, ON, Canada
+- *2022.09 - 2023.12* Student Statistics Consultant, University of Toronto Data Sciences Café, Toronto, ON, Canada
+  
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
@@ -27,14 +35,6 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Resume.pdf) to download 
 - *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petal Abdool
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
 - *2022.10 - 2023.05* UofT Population Well-being Lab, supervised by Prof. Felix Cheung
-
-<span class="anchor" id="Professional Experience"></span>
-### Professional Experience
-
-- *2025.09 - Current* R-Based Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
-- *2024.09 - 2025.04* Tableau Data Visualization Analyst, University of Toronto Human Biology Program, Toronto, ON, Canada
-- *2023.05 - 2023.08* Data Analyst Intern, Canadian Urban Institute, Toronto, ON, Canada
-- *2022.09 - 2023.12* Student Statistics Consultant, University of Toronto Data Sciences Café, Toronto, ON, Canada
   
 <span class="anchor" id="Teaching Experience"></span>
 ### Teaching Experience
