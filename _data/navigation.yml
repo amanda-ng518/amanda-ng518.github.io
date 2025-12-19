@@ -14,8 +14,8 @@ main:
   - title: "Presentations"
     url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Health Studies Course Projects"
+    url: /teaching/    
     
   - title: "Research Projects"
     url: /portfolio/
