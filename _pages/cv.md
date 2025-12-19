@@ -14,7 +14,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 <span class="anchor" id="Education"></span>
 ### Education
 - M.Sc. in Statistics (2026 expected), University of Toronto, ON, Canada
-- H.B.Sc. in Statistics and Mathematics (2025), University of Toronto, ON, Canada
+- H.B.Sc. in Statistics and Mathematics with Focus in Health Studies(2025), University of Toronto, ON, Canada
 - Increasing Diversity in Mathematical Sciences 2024: Combinatorial Commutative Algebra (Not for credit), Dalhousie University, NS, Canada
 
 <span class="anchor" id="Professional Experience"></span>
@@ -31,7 +31,6 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 - *2025.09 - 2025.12* Department of Statistical Sciences, supervised by Prof. Jun Young Park
 - *2024.05 - Current* Department of Statistical Sciences, supervised by Prof. Nancy Reid
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
-- *2024.09 - 2025.04* Department of Human Biology, supervised by Prof. Naomi Levy-Strumpf
 - *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petal Abdool
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
 - *2022.10 - 2023.05* UofT Population Well-being Lab, supervised by Prof. Felix Cheung
