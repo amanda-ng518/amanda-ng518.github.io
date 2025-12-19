@@ -12,14 +12,14 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
-
-  - title: "Health Studies Course"
-    url: /healthcourse/    
+    url: /talks/      
     
   - title: "Research Projects"
     url: /portfolio/
-        
+
+  - title: "Health Studies Course"
+    url: /healthcourse/  
+    
   #- title: "Blog Posts"
   #  url: /year-archive/
     
