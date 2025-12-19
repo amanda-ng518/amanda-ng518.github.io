@@ -248,10 +248,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _healthcourse
   - scope:
       path: ""
-      type: teaching
+      type: healthcourse
     values:
       layout: single
       author_profile: true
