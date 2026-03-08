@@ -3,7 +3,7 @@ title: "Robust Regression with Student's T: The Role of Degrees of Freedom"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-08-Regression
-#excerpt: '<p><i>Under Review</i></p>'
+excerpt: '<p><i>Under Review</i></p>'
 date: 2026-03-08
 #venue: 'Advances in Simulation 10, 32 (2025)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'#paperurl: 'https://doi.org/10.1186/s41077-025-00358-y'
