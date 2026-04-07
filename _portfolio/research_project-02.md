@@ -1,6 +1,6 @@
 ---
 title: "Aspects of Robust Regression Analysis"
-excerpt: '<p><i>Supervised by Prof. Nancy Reid, Summer 2024 - Current </i></p>
+excerpt: '<p><i>Supervised by Prof. Nancy Reid, Summer 2024 - Winter 2026 </i></p>
 
 UTEA, SURA Research Student, UofT DoSS'
 collection: portfolio
