@@ -29,8 +29,8 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
-- *2025.09 - 2025.12* Department of Statistical Sciences, supervised by Prof. Jun Young Park
 - *2024.05 - 2026.04* Department of Statistical Sciences, supervised by Prof. Nancy Reid
+- *2025.09 - 2025.12* Department of Statistical Sciences, supervised by Prof. Jun Young Park
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
 - *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petal Abdool
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
