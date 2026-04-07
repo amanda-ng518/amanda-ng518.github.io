@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to download a recent copy of my Resume (updated Jan, 2026).
+Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to download a recent copy of my Resume (updated Apr, 2026).
 
 <span class="anchor" id="Professional Experience"></span>
 ### Professional Experience
