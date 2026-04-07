@@ -11,25 +11,26 @@ redirect_from:
 
 Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to download a recent copy of my Resume (updated Jan, 2026).
 
-<span class="anchor" id="Education"></span>
-### Education
-- M.Sc. in Statistics (2026 expected), University of Toronto, ON, Canada
-- H.B.Sc. in Statistics and Mathematics with Focus in Health Studies(2025), University of Toronto, ON, Canada
-- Increasing Diversity in Mathematical Sciences 2024: Combinatorial Commutative Algebra (Not for credit), Dalhousie University, NS, Canada
-
 <span class="anchor" id="Professional Experience"></span>
 ### Professional Experience
 
-- *2025.09 - Current* R-Based Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
+- *2026.05 - Current* Data Science Associate, Canadian Tire Corporation, Toronto, ON, Canada
+- *2025.09 - 2026.04* Statistical Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
 - *2024.09 - 2025.04* Tableau Data Visualization Analyst, University of Toronto Human Biology Program, Toronto, ON, Canada
 - *2023.05 - 2023.08* Data Analyst Intern, Canadian Urban Institute, Toronto, ON, Canada
 - *2022.09 - 2023.12* Student Statistics Consultant, University of Toronto Data Sciences Café, Toronto, ON, Canada
   
+<span class="anchor" id="Education"></span>
+### Education
+- M.Sc. in Statistics (2026), University of Toronto, ON, Canada
+- H.B.Sc. in Statistics and Mathematics with Focus in Health Studies (2025), University of Toronto, ON, Canada
+- Increasing Diversity in Mathematical Sciences 2024: Combinatorial Commutative Algebra (Not for credit), Dalhousie University, NS, Canada
+
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
 - *2025.09 - 2025.12* Department of Statistical Sciences, supervised by Prof. Jun Young Park
-- *2024.05 - Current* Department of Statistical Sciences, supervised by Prof. Nancy Reid
+- *2024.05 - 2026.04* Department of Statistical Sciences, supervised by Prof. Nancy Reid
 - *2024.09 - 2025.04* Department of Statistical Sciences, supervised by Prof. Jesse Gronsbell
 - *2024.06 - 2024.08* Simulation Centre, The Centre for Addiction and Mental Health, supervised by Prof. Petal Abdool
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
@@ -38,7 +39,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 <span class="anchor" id="Teaching Experience"></span>
 ### Teaching Experience
 
-- *2023.09 - Current* Teaching Assistant, University of Toronto Department of Statistical Sciences, Toronto, ON, Canada
+- *2023.09 - 2026.04* Teaching Assistant, University of Toronto Department of Statistical Sciences, Toronto, ON, Canada
   <br> Courses: STA130 (Fall 2023, Fall 2024, Winter 2026), STA238 (Winter 2025), STA304 (Fall 2025), Statistics Aid Centre (Fall 2025)
   <br> Events: Florence Nightingale Day (2024, 2025, 2026)
 - *2024.02 - 2024.12* Learning Support, University of Toronto Data Sciences Institute, Toronto, ON, Canada
