@@ -12,22 +12,23 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/      
-    
-  - title: "Research Projects"
+    url: /talks/
+
+  - title: "Projects"
     url: /portfolio/
 
- - title: "Health Studies Course"
-    url: /healthcourse/  
-    
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+  - title: "Health Studies Course"
+    url: /healthcourse/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
   - title: "CV"
     url: /cv/
-    
+
   # - title: "CV"
   #   url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+
+  # - title: "Guide"
+  #   url: /markdown/
+
