@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /portfolio/
 
- #- title: "Health Studies Course"
- #   url: /healthcourse/  
+ - title: "Health Studies Course"
+    url: /healthcourse/  
     
   #- title: "Blog Posts"
   #  url: /year-archive/
