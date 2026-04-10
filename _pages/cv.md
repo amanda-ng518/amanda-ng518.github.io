@@ -16,6 +16,7 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 
 - *2026.05 - Current* Data Science Associate, Canadian Tire Corporation, Toronto, ON, Canada
 - *2025.09 - 2026.04* Statistical Learning Designer, University of Toronto Human Biology Program, Toronto, ON, Canada
+  Click [here](https://uoft-hmb-coding.github.io/) to view the coding resources I created for UofT HMB students.
 - *2024.09 - 2025.04* Tableau Data Visualization Analyst, University of Toronto Human Biology Program, Toronto, ON, Canada
 - *2023.05 - 2023.08* Data Analyst Intern, Canadian Urban Institute, Toronto, ON, Canada
 - *2022.09 - 2023.12* Student Statistics Consultant, University of Toronto Data Sciences Café, Toronto, ON, Canada
