@@ -41,8 +41,8 @@ Click [here](http://amanda-ng518.github.io/files/Amanda_Ng_Full_Resume.pdf) to d
 <span class="anchor" id="Teaching Experience"></span>
 ### Teaching Experience
 
-- *2023.09 - 2026.04* Teaching Assistant, University of Toronto Department of Statistical Sciences, Toronto, ON, Canada
-  <br> Courses: STA130 (Fall 2023, Fall 2024, Winter 2026), STA238 (Winter 2025), STA304 (Fall 2025), Statistics Aid Centre (Fall 2025)
+- *2023.09 - 2026.06* Teaching Assistant, University of Toronto Department of Statistical Sciences, Toronto, ON, Canada
+  <br> Courses: STA130 (Fall 2023, Fall 2024, Winter 2026), STA238 (Winter 2025), STA304 (Fall 2025, Summer 2026), Statistics Aid Centre (Fall 2025)
   <br> Events: Florence Nightingale Day (2024, 2025, 2026)
 - *2024.02 - 2024.12* Learning Support, University of Toronto Data Sciences Institute, Toronto, ON, Canada
   <br> Data Sciences & Machine Learning Certificates Modules: SQL, Applying Statistical Concepts, Sampling, Visualization
