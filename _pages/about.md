@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Sc. student in Statistics at the University of Toronto. Prior to my MSc. study, I received my H.B.Sc. in Statistical Sciences (Specialist with Focus in Health Studies) and Mathematics (Major) also from the University of Toronto in 2025.
+I recently completed my M.Sc. in Statistics at the University of Toronto, where I also earned my H.B.Sc. in Statistical Sciences (Specialist with Focus in Health Studies) and Mathematics (Major) in 2025.
 
-I am currently working at the Department of Statistical Sciences under the supervision of Prof. Nancy Reid.
+I’m now a Data Science Associate at Canadian Tire Corporation, working with the Western Banner — Mark’s & SportChek Decision Support team.
 
 Email: waiyuamandang@gmail.com
